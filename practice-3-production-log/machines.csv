@@ -1,0 +1,7 @@
+machine_id,type,plant,install_year
+M01,CNC,North,2015
+M02,CNC,North,2019
+M03,Press,North,2012
+M04,Press,South,2020
+M05,Welder,South,2017
+M06,Welder,South,2022
